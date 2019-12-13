@@ -39,7 +39,10 @@ yang didapatkan melalui proses pengamatan atau pencarian ke sumber-sumber terten
 secara bersamaan oleh banyak pengguna (multiuser). Dan untuk melakukan suatu perlindungan dan suatu pengamanan data. 
 Setiap sebuah data hanya bisa diakses atau dimanipulasi oleh suatu pihak yang diberi otoritas dengan memberikan 
 sebuah login dan password terhadap masing-masing sebuah data.
-4.Big Data, Big data adalah istilah yang menggambarkan volume besar data, baik terstruktur maupun tidak terstruktur yang membanjiri bisnis sehari-hari. Namun bukan jumlah data yang penting. Apa yang dilakukan organisasi dengan data itulah yang penting. Big data dapat dianalisis demi pemahaman yang mengarah kepada keputusan dan gerakan bisnis strategis yang lebih baik.
+4.Big Data, Big data adalah istilah yang menggambarkan volume besar data, baik terstruktur maupun tidak terstruktur 
+yang membanjiri bisnis sehari-hari. Namun bukan jumlah data yang penting. Apa yang dilakukan organisasi dengan data 
+itulah yang penting. Big data dapat dianalisis demi pemahaman yang mengarah kepada keputusan dan gerakan bisnis 
+strategis yang lebih baik.
 
 ***
 ## Materi Seminar III,
