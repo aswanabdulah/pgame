@@ -1,14 +1,14 @@
 ### Dirangkum oleh :
-### NPM	      : 16091
-### Nama	    : Aswan Abdullah
+### NPM     : 16091
+### Nama    : Aswan Abdullah
 ***
 ## Materi Seminar I,
-### Waktu 		    : 10/12/2019 : 09.45
-### Tempat 		    : Aula Rektorat UMMU 
-### Durasi 		    : 15 Menit, Sesi ke 1
-### Nama Pemateri	: Abdul Haris Muhammad, ST., M.Kom
-### Judul Materi 	: Digital Lifestyle
-### Isi Materi :
+### Waktu         : 10/12/2019 : 09.45
+### Tempat        : Aula Rektorat UMMU 
+### Durasi        : 15 Menit, Sesi ke 1
+### Nama Pemateri : Abdul Haris Muhammad, ST., M.Kom
+### Judul Materi  : Digital Lifestyle
+### Isi Materi  :
 Catatan saya untuk Materi Seminar yang disampaikan oleh Pak Haris
 Adalah Pak Haris menyampaikan pengantar-pengantar dari materi forensik
 dengan tema mengenai Digital Lifestyle. Ada beberapa point penting
@@ -22,11 +22,11 @@ Dan pak Haris mengatakan sekarang ini kita mempunyai dua kehidupan yang pertama 
 
 ***
 ## Materi Seminar II,
-### Waktu		      : 10/12/2019 : 10.00
-### Tempat		    : Aula Rektorat UMMU
-### Durasi		    : 1 Jam 2 Menit, Sesi ke 2
-### Nama Pemateri	: Dr.Ing. Ridho Rahmadi, S,Kom., M.Sc.
-### Judul Materi	: The fundamentals and the roles in the 4th industrial revolution
+### Waktu         : 10/12/2019 : 10.00
+### Tempat        : Aula Rektorat UMMU
+### Durasi        : 1 Jam 2 Menit, Sesi ke 2
+### Nama Pemateri : Dr.Ing. Ridho Rahmadi, S,Kom., M.Sc.
+### Judul Materi  : The fundamentals and the roles in the 4th industrial revolution
 ###		              (Dasar-dasar dan peran dalam revolusi industri ke-4)
 ### Isi Materi :
 Catatan saya untuk Materi Seminar yang disampaikan oleh Pak Dr.
@@ -46,11 +46,11 @@ strategis yang lebih baik.
 
 ***
 ## Materi Seminar III,
-### Waktu		      : 10/12/2019 : 11.10
-### Tempat		    : Aula Rektorat UMMU
-### Durasi		    : 58 Menit, Sesi ke 3
-### Nama Pemateri	: Yudi Prayudi, M.Kom
-### Judul Materi	: Overview Forensik Digital
+### Waktu         : 10/12/2019 : 11.10
+### Tempat        : Aula Rektorat UMMU
+### Durasi        : 58 Menit, Sesi ke 3
+### Nama Pemateri : Yudi Prayudi, M.Kom
+### Judul Materi  : Overview Forensik Digital
 ###		   	         (Tinjauan Forensik Digital)
 ### Isi Materi :
 Catatan saya untuk Materi Seminar yang disampaikan oleh Pak Yudi saya bagi menjadi bebeapa bagian, bagian pertama beliau berbicara tentang pengertian forensik digital, menurut beliau forensik Digital adalah adalah salah satu cabang ilmu forensik, terutama untuk penyelidikan dan penemuan konten perangkat digital, dan seringkali dikaitkan dengan kejahatan komputer. Istilah forensik digital pada awalnya identik dengan forensikkomputer tetapi kini telah diperluas untuk menyelidiki semua perangkat yang dapat menyimpan data digitalKemudian bagian kedua,beliau meyinggung tentang pentingnya bidang ilmu forensik digital dan pentingnya forensik digital yaitu dalam proses penyidikan siber. Beliau juga mengatakan  bahwa Forensik Digital dapat diartikan sebagaikeseluruhan proses dalam mengumpulkan, mengakuisisi, memulihkan, menyimpan, dan memeriksa Informasi atau Dokumen Elektronik lainnya.
