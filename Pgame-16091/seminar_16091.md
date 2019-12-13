@@ -57,7 +57,7 @@ Catatan saya untuk Materi Seminar yang disampaikan oleh Pak Yudi saya bagi menja
 
 pak yudi juga mengataka soal gaya hidup dalam dunia forensik yaitu merupakan hal yang sangat diinginkan untuk menjadi pribadi dengan gaya hidup yang penuh kebanggaan atau kebahagiaan, untuk memperoleh semua itu diharuskan untuk merubah paradigma-paradigma pemikiran kita agar lebih leluasa dalam melakukan pekerjaan yang memungkinkan dengan adanya bantuan dari leptop, handphone dan yang lainnya.
 
-berikut juga pak Yudi menyampaikan agenda-agenda yang dalam Digital Forensik yaitu
+berikut juga pak Yudi menyampaikan agenda-agenda yang ada dalam Digital Forensik yaitu
 1.Ilmu Forensik 
 2.Forensik Digital 
 3.Kebutuhan SDM Forensik Digital 
