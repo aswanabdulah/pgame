@@ -54,3 +54,15 @@ strategis yang lebih baik.
 ###		   	         (Tinjauan Forensik Digital)
 ### Isi Materi :
 Catatan saya untuk Materi Seminar yang disampaikan oleh Pak Yudi saya bagi menjadi bebeapa bagian, bagian pertama beliau berbicara tentang pengertian forensik digital, menurut beliau forensik Digital adalah adalah salah satu cabang ilmu forensik, terutama untuk penyelidikan dan penemuan konten perangkat digital, dan seringkali dikaitkan dengan kejahatan komputer. Istilah forensik digital pada awalnya identik dengan forensikkomputer tetapi kini telah diperluas untuk menyelidiki semua perangkat yang dapat menyimpan data digitalKemudian bagian kedua,beliau meyinggung tentang pentingnya bidang ilmu forensik digital dan pentingnya forensik digital yaitu dalam proses penyidikan siber. Beliau juga mengatakan  bahwa Forensik Digital dapat diartikan sebagaikeseluruhan proses dalam mengumpulkan, mengakuisisi, memulihkan, menyimpan, dan memeriksa Informasi atau Dokumen Elektronik lainnya.
+
+pak yudi juga mengataka soal gaya hidup dalam dunia forensik yaitu merupakan hal yang sangat diinginkan untuk menjadi pribadi dengan gaya hidup yang penuh kebanggaan atau kebahagiaan, untuk memperoleh semua itu diharuskan untuk merubah paradigma-paradigma pemikiran kita agar lebih leluasa dalam melakukan pekerjaan yang memungkinkan dengan adanya bantuan dari leptop, handphone dan yang lainnya.
+
+berikut juga pak Yudi menyampaikan agenda-agenda yang dalam Digital Forensik yaitu
+1.Ilmu Forensik 
+2.Forensik Digital 
+3.Kebutuhan SDM Forensik Digital 
+4.Pendidikan Forensik Digital 
+5.Penelitian Forensik Digital 
+6.Prospek Forensik Digital di Indonesia 
+7.Sharing Knowledge 
+8.Asosiasi Forensik Digital Indonesia (AFDI)
